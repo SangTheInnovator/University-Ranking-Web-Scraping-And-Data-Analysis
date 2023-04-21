@@ -1,0 +1,201 @@
+Rank,Name,Region,Location,City,Overall Score,International Students Ratio,International Faculty Ratio,Faculty Student Ratio,Academic Reputation,Citations Per Faculty,Employer Reputation
+1,Massachusetts Institute of Technology (MIT),North America,United States,Cambridge,100,91.4,100,100,100,100,100
+2,University of Oxford,Europe,United Kingdom,Oxford,99.5,98.5,99.5,100,100,96,100
+3,Stanford University,North America,United States,Stanford,98.7,67,99.8,100,100,99.9,100
+4,University of Cambridge,Europe,United Kingdom,Cambridge,98.7,97.7,100,100,100,92.1,100
+5,Harvard University,North America,United States,Cambridge,98,70.1,84.2,99.1,100,100,100
+6,California Institute of Technology (Caltech),North America,United States,Pasadena,97.4,87.7,99.4,100,96.7,100,89.9
+7,Imperial College London,Europe,United Kingdom,London,97.3,100,100,99.8,98.4,88.1,99.8
+8,ETH Zurich,Europe,Switzerland,Zürich,95.4,98.2,100,80.4,98.7,99.8,95.3
+9,UCL,Europe,United Kingdom,London,95.4,100,99.5,99,99.4,78,98.9
+10,University of Chicago,North America,United States,Chicago,94.5,84.9,71.9,95.5,99.2,90.6,93.5
+11,National University of Singapore (NUS),Asia,Singapore,Singapore,93.9,70.3,100,86.8,99.6,90.6,97.1
+12,"Nanyang Technological University, Singapore (NTU)",Asia,Singapore,Singapore,90.8,69.6,100,89.5,91.1,95.5,85
+13,University of Pennsylvania,North America,United States,Philadelphia,90.7,58.1,94.1,100,96.2,74,93.8
+14,EPFL,Europe,Switzerland,Lausanne,90.2,100,100,94.8,82.4,99.8,79.7
+15,Yale University,North America,United States,New Haven,90.2,69.8,87.9,100,99.9,59.9,100
+16,The University of Edinburgh,Europe,United Kingdom,Edinburgh,89.9,99.6,99.3,83.5,98,69.5,97.3
+17,Tsinghua University,Asia,China (Mainland),Beijing,89,26.3,15.3,90.6,98.6,96,97.6
+18,Peking University,Asia,China (Mainland),Beijing,88.8,38.5,45.6,83.5,99.4,89.5,98.2
+19,Columbia University,North America,United States,New York City,88.7,98.4,52.7,100,99.6,55.6,98.4
+20,Princeton University,North America,United States,Princeton,88.6,63.2,28.1,68.7,99.9,100,99.2
+21,Cornell University,North America,United States,Ithaca,88.3,66.1,75.6,61.3,98.4,98.9,93.9
+22,The University of Hong Kong,Asia,Hong Kong SAR,,86.3,98.9,100,85.4,97.9,62.1,73.1
+23,The University of Tokyo,Asia,Japan,Tokyo,86.2,28.5,3.3,92.4,100,79,99.6
+24,University of Michigan-Ann Arbor,North America,United States,Ann Arbor,86.2,34.9,63.4,90.2,98.6,70.5,93
+25,Johns Hopkins University,North America,United States,Baltimore,85.9,91.7,55.1,100,87.6,89.9,51.6
+26,University of Toronto,North America,Canada,Toronto,85.3,94.9,98.6,69.4,99.5,58.8,98.2
+27,McGill University,North America,Canada,Montreal,84,96.6,92.2,73.3,92.5,65.5,94.4
+28,Australian National University (ANU),Oceania,Australia,Canberra,84,98.8,100,44.4,94.6,95.4,79.3
+29,The University of Manchester,Europe,United Kingdom,Manchester,84,99.3,94,72.5,95.2,58.1,98
+30,Northwestern University,North America,United States,Evanston,82.8,49.6,30,99.3,84.4,87.1,74.7
+31,Fudan University,Asia,China (Mainland),Shanghai,82.6,45.5,93.3,91.5,84.8,71.1,89.1
+32,"University of California, Berkeley (UCB)",North America,United States,Berkeley,82.5,55.3,95.4,23.3,100,99.9,100
+33,Kyoto University,Asia,Japan,Kyoto,82.3,22.7,5.4,96,98.7,60.3,97.8
+34,The Hong Kong University of Science and Technology,Asia,Hong Kong SAR,Hong Kong SAR,82.2,89.2,100,64.8,84.2,98.2,60.7
+35,King's College London,Europe,United Kingdom,London,82,100,99.2,83.4,88.9,53.9,86.2
+36,Seoul National University,Asia,South Korea,Seoul,81.7,8.9,4,83.9,98.3,75,96.5
+37,The University of Melbourne,Oceania,Australia,Parkville,81.4,99.9,97.1,19.9,98.9,89.7,97.3
+38,The University of Sydney,Oceania,Australia,Sydney,80.4,100,100,20.9,96.8,87.9,95.4
+39,The Chinese University of Hong Kong (CUHK),Asia,Hong Kong SAR,Hong Kong SAR,80.3,91.8,100,62.6,88.8,83.2,56.7
+40,"University of California, Los Angeles (UCLA)",North America,United States,Los Angeles,79.7,26.7,28.9,42.5,100,90.5,99.9
+41,KAIST - Korea Advanced Institute of Science & Technology,Asia,South Korea,Daejeon,79.1,12,8.5,73.1,87.5,98.8,83.1
+42,New York University (NYU),North America,United States,New York City,78.9,95.6,14.6,96.6,95.9,27.7,98.6
+43,The University of New South Wales (UNSW Sydney),Oceania,Australia,Sydney,77.7,99.8,100,15.2,90.4,93.5,94.4
+44,Université PSL,Europe,France,Paris,77.6,70.5,57.5,99.9,75.8,55.1,95.9
+45,Zhejiang University,Asia,China (Mainland),Hangzhou,77.4,63,98.5,88,71.2,69,91.5
+46,University of British Columbia,North America,Canada,Vancouver,77.1,79,89.1,52.7,97.6,46.8,94.2
+47,The University of Queensland,Oceania,Australia,Brisbane City,76.6,100,100,25.4,88.2,89.4,80.2
+48,"University of California, San Diego (UCSD)",North America,United States,San Diego,76.1,61.8,39.2,62.6,91,78.4,61.1
+49,Institut Polytechnique de Paris,Europe,France,Palaiseau Cedex,75.9,98.1,94.3,99.6,44.8,91.6,98.6
+50,The London School of Economics and Political Science (LSE),Europe,United Kingdom,London,75.8,100,100,45,72.4,87.8,99.2
+51,Shanghai Jiao Tong University,Asia,China (Mainland),Shanghai,75.6,36.3,25,55.2,83.4,95.6,86.7
+52,Technical University of Munich,Europe,Germany,Munich,75.6,91.2,56.9,94.5,84.5,27.2,97.6
+53,Duke University,North America,United States,Durham,75.2,57.4,-,100,86.9,45.4,81.8
+54,Carnegie Mellon University,North America,United States,Pittsburgh,74.6,99.1,34.6,55,72.7,99.9,75
+55,City University of Hong Kong,Asia,Hong Kong SAR,,74.6,99.9,100,89.7,59.4,96.5,33
+56,University of Amsterdam,Europe,Netherlands,Amsterdam,73.8,72.9,88.7,33.6,83.1,99.5,55.6
+57,Tokyo Institute of Technology (Tokyo Tech),Asia,Japan,Tokyo,73.5,36.2,13.7,87.6,74.6,71.1,91.1
+58,Delft University of Technology,Europe,Netherlands,Delft,73.1,85.9,100,41.8,71.9,87.8,87.9
+59,Monash University,Oceania,Australia,Melbourne,72.2,100,100,13.9,88.9,73.9,87.2
+60,Brown University,North America,United States,Providence,71.3,54,78.2,83.2,58.1,94.5,56.3
+61,The University of Warwick,Europe,United Kingdom,Coventry,71.2,99.4,99,52.1,73.1,61.4,90.8
+62,University of Bristol,Europe,United Kingdom,Bristol,71,83.6,91.3,67.5,74.7,50.7,84.3
+63,Ruprecht-Karls-Universität Heidelberg,Europe,Germany,Heidelberg,70.8,54.7,36.6,99.7,80.1,47,45.7
+64,Ludwig-Maximilians-Universität München,Europe,Germany,Munich,70.1,38,49.1,52.7,92.8,50,77.5
+65,Universiti Malaya (UM),Asia,Malaysia,Kuala Lumpur,69.8,42.6,43.6,76.5,76.9,49.6,91.7
+66,The Hong Kong Polytechnic University,Asia,Hong Kong SAR,Hong Kong SAR,69.1,81.3,100,79.2,67.1,63.8,42.9
+67,University of Texas at Austin,North America,United States,Austin,68.4,15.4,2.1,9.5,93.6,96.6,86.1
+68,National Taiwan University (NTU),Asia,Taiwan,Taipei City,68.2,39.2,7,40.8,92.3,58.7,87.4
+69,Universidad de Buenos Aires (UBA),Latin America,Argentina,Buenos Aires,67.9,71.1,52.8,78.2,90.2,1.9,93.4
+70,KU Leuven,Europe,Belgium,Leuven,67.2,41.4,90.3,8.1,84.4,96.9,56.1
+71,University of Zurich,Europe,Switzerland,Zürich,67.2,57.8,100,96.6,59.3,53.3,52.8
+72,Sorbonne University,Europe,France,Paris,67.1,54.2,14.5,37.4,90.2,75.4,47.4
+73,University of Glasgow,Europe,United Kingdom,Glasgow,66.8,97.9,95.8,59.6,74.4,38.7,74
+74,Korea University,Asia,South Korea,Seoul,66.3,34,4.3,89.5,77.6,30.6,90.4
+75,Osaka University,Asia,Japan,Osaka City,66.2,15.1,7.7,79.1,80.6,43.4,80.6
+76,University of Wisconsin-Madison,North America,United States,Madison,66.2,27.5,8.1,69.2,83.4,58.4,52.8
+77,University of Southampton,Europe,United Kingdom,Southampton,65.7,96.9,97.9,59.8,51.5,85.4,60.1
+78,Lomonosov Moscow State University,Europe,Russia,Moscow,65.6,87.8,7.3,99.8,79.5,5.9,76.5
+79,University of Copenhagen,Europe,Denmark,Copenhagen,65.5,25.9,91.7,100,73.5,27.5,44.2
+80,Yonsei University,Asia,South Korea,Seoul,65.5,44.1,7.1,89.6,71.6,34.4,92.6
+81,Pohang University of Science And Technology (POSTECH),Asia,South Korea,Pohang ,65.4,3,17.6,100,44.3,99.7,64.1
+82,Durham University,Europe,United Kingdom,Durham,65.2,91.5,97.8,35.8,58.3,80.6,88.6
+83,Tohoku University,Asia,Japan,Sendai City,65.2,16.5,3.6,98.4,71.4,41.3,73.8
+84,University of Illinois at Urbana-Champaign,North America,United States,Champaign,65.2,58.1,8,9.8,86.4,93.8,63.5
+85,The University of Auckland,Oceania,New Zealand,Auckland,65,94.3,99.5,23.7,83.8,55.1,57.3
+86,University of Washington,North America,United States,Seattle,65,38.8,17,12.2,85.4,100,53
+87,Universit Paris-Saclay,Europe,France,"Gif-sur-Yvette,",64.9,46.5,24.7,99.2,55.5,46.2,98.1
+88,Lund University,Europe,Sweden,Lund,63.8,68.3,92.4,52.6,70.5,55.2,57.2
+89,Georgia Institute of Technology,North America,United States,Atlanta,63.5,64.1,71.3,6.9,67.8,100,79.4
+90,KTH Royal Institute of Technology,Europe,Sweden,Stockholm,63.2,62.7,97,69.8,47.3,78.2,64.1
+91,University of Birmingham,Europe,United Kingdom,Birmingham,62.9,90,91.6,51.9,65.5,47.4,74.6
+92,University of St Andrews,Europe,United Kingdom,St. Andrews,62.8,99.7,99.1,67.6,46.7,69.7,64.7
+93,University of Leeds,Europe,United Kingdom,Leeds,62.6,89.4,83.9,44,70.6,43.4,79.5
+94,The University of Western Australia,Oceania,Australia,Perth,62.5,99.9,100,20.4,58.5,94.9,58.1
+95,Rice University,North America,United States,Houston,62.3,88.5,89.1,78,40,93.1,29.4
+96,The University of Sheffield,Europe,United Kingdom,Sheffield,61.6,98.1,83.7,66.8,60.4,44.5,57.9
+97,Pennsylvania State University,North America,United States,University Park,61.5,32.6,10,32.5,75.9,74.4,73.2
+98,Sungkyunkwan University (SKKU),Asia,South Korea,Suwon,60.5,38.5,7.2,85.4,61.5,46.8,68.8
+99,University of Science and Technology of China,Asia,China (Mainland),Hefei,60.1,6.4,8.4,83.6,52.4,99.9,14.4
+100,Technical University of Denmark,Europe,Denmark,Kongens Lyngby,59.9,76.6,100,100,32.1,75,30
+101,University of North Carolina at Chapel Hill,North America,United States,Chapel Hill,59.6,11.1,11.8,80.9,66.3,53.9,47.2
+102,"Trinity College Dublin, The University of Dublin",Europe,Ireland,Dublin,59.5,94.2,99.9,27.7,68.2,58.9,48.9
+103,University of Oslo,Europe,Norway,Oslo,59,29,85,85.5,55.4,61,16.3
+104,University of Nottingham,Europe,United Kingdom,Nottingham,58.9,83.6,90.3,43.5,59.1,51,74.2
+105,University of Helsinki,Europe,Finland,Helsinki,58.5,6.2,56.5,68.5,67.2,49.6,45.8
+106,Universidad Nacional Autónoma de México  (UNAM),Latin America,Mexico,Mexico City,58.3,3.5,2.9,49.9,94.6,3,93.2
+107,University of Geneva,Europe,Switzerland,Geneva,58.3,97.3,100,47.4,48.7,83.7,24.4
+108,Washington University in St. Louis,North America,United States,St. Louis,58,68.6,79,99.9,41.3,61,16.3
+109,The University of Adelaide,Oceania,Australia,Adelaide,57.9,99.7,100,21.9,53.3,90.1,39.8
+110,"University of California, Davis",North America,United States,Davis,57.9,64.8,76.4,29.7,66.9,65.9,47.2
+111,King Abdulaziz University (KAU),Asia,Saudi Arabia,Jeddah,57.7,56.3,99.5,68.9,41.3,63.8,65.7
+112,Utrecht University,Europe,Netherlands,Utrecht,57.5,24.4,45.5,37.4,66.1,82.2,34.4
+113,Université de Montréal,North America,Canada,Montreal,57.3,53.2,88.3,74.1,56.6,36.1,52.5
+114,Aalto University,Europe,Finland,Espoo,57,37.5,96,47.7,45.7,88.4,45.8
+115,Boston University,North America,United States,Boston,57,87.6,14.4,41,62,63.7,58.9
+116,Leiden University,Europe,Netherlands,Leiden,57,47.3,78.1,24.1,69.3,73.5,32.3
+117,University of Southern California,North America,United States,Los Angeles,57,81.7,23.4,37.1,56.2,77.5,60.9
+118,Purdue University,North America,United States,West Lafayette,56.9,50.6,55.8,14.8,63.3,77.6,74.9
+119,Queen Mary University of London,Europe,United Kingdom,London,56.7,99.5,99.8,51.5,50.7,60,39.4
+120,Nagoya University,Asia,Japan,Nagoya,56.2,20.5,5.1,92,59.2,37.4,51.1
+121,University of Bern,Europe,Switzerland,Bern,56.1,44,100,67.5,30.4,97.6,35
+122,The Ohio State University,North America,United States,Columbus,56,23.2,76.9,58.7,61.9,39.3,64.2
+123,Chalmers University of Technology,Europe,Sweden,Gothenburg,55.9,72.4,100,70.2,28.8,76.1,62.9
+124,Universidade de São Paulo,Latin America,Brazil,São Paulo,55.9,3,2.4,18.8,90.1,42.3,71.3
+125,Wageningen University & Research,Europe,Netherlands,Wageningen,55.8,78.5,35.7,97.9,42.8,53.4,24.9
+126,Uppsala University,Europe,Sweden,Uppsala,55.4,60.4,86.3,38.9,65.1,53.4,33
+127,Eindhoven University of Technology,Europe,Netherlands,Eindhoven,55.3,44.1,100,54.3,29.9,85.9,78.9
+128,University of Alberta,North America,Canada,Edmonton,55.2,81.4,90,48.2,53.7,52.7,47.4
+129,Freie Universitaet Berlin,Europe,Germany,Berlin,54.9,46.5,50.5,3.5,80.9,57.8,51.8
+130,Humboldt-Universität zu Berlin,Europe,Germany,Berlin,54.8,33,39.8,9.2,90.3,33.1,63.5
+131,University of Groningen,Europe,Netherlands,Groningen,54.8,86.2,92.6,62.2,51.1,49.3,29.1
+132,École Normale Supérieure de Lyon,Europe,France,Lyon,54.6,18.5,51.8,97.2,32.8,85.3,12.4
+133,Nanjing University,Asia,China (Mainland),Nanjing,54.2,9.2,52,30.1,59.6,96.4,17.7
+134,Lancaster University,Europe,United Kingdom,"Lancaster,",54,97.1,94.6,39.2,41.2,82.6,33.2
+135,University of Technology Sydney,Oceania,Australia,Haymarket,53.9,95.2,98.6,8.9,44.4,86.3,71.8
+136,Newcastle University,Europe,United Kingdom,Newcastle upon Tyne,53.8,85.8,92.2,43.3,45.8,48.2,80.8
+137,Pontificia Universidad Católica de Chile (UC),Latin America,Chile,Santiago,53.6,3.8,6.5,22.4,89.6,14,97.6
+138,"KIT, Karlsruhe Institute of Technology",Europe,Germany,Karlsruhe,53.4,67.7,58.9,30.5,45.3,74,78.5
+139,Kyushu University,Asia,Japan,Fukuoka City,53.3,18.9,4.4,86.2,56.1,31,60.2
+140,University of Basel,Europe,Switzerland,Basel,53,86.7,100,49.7,28.7,97.2,25.9
+141,McMaster University,North America,Canada,Hamilton,52.7,55.3,99.5,86.5,39.9,31.4,51.6
+142,Ghent University,Europe,Belgium,Ghent,52.6,21.1,61.7,84.8,54.5,34.3,25.8
+143,Politecnico di Milano,Europe,Italy,Milan,52.5,55.2,40.9,5.1,66.1,59.3,81
+144,Universiti Putra Malaysia (UPM),Asia,Malaysia,Seri Kembangan,52.2,87,32.9,73.9,53.6,20.5,56.4
+145,Universiti Kebangsaan Malaysia (UKM),Asia,Malaysia,Bangi,52,28.4,20.5,94.6,56.7,9.2,59.4
+146,Hokkaido University,Asia,Japan,Sapporo,51.4,17.9,8.1,79.2,54.8,32.5,56
+147,"University of California, Santa Barbara (UCSB)",North America,United States,Santa Barbara,51.2,37.2,44.1,10.7,57.8,95.6,25.3
+148,Universiti Sains Malaysia (USM),Asia,Malaysia,Gelugor,51,60.6,16,69.6,58.9,16,63
+149,Stockholm University,Europe,Sweden,Stockholm,50.6,63.1,87.5,27.3,55.6,65.5,20.3
+150,University of Exeter,Europe,United Kingdom,Exeter,50.5,82.9,94.2,37.3,41.4,58.5,57.5
+151,University of Waterloo,North America,Canada,Waterloo,50.5,83.8,74.7,7.5,39.6,85.7,79.2
+152,Cardiff University,Europe,United Kingdom,Cardiff,50.4,79.4,81.6,48.6,47.2,44.3,47.1
+153,University of Vienna,Europe,Austria,Vienna,50.4,89.9,98.8,22.6,70.2,17.2,47.4
+154,University of York,Europe,United Kingdom,York,50.4,74,91.8,54.4,43.2,50.2,37.2
+155,University of Rochester,North America,United States,Rochester,50.3,95.3,57,99.8,25.2,52.6,18.9
+156,Aarhus University,Europe,Denmark,Aarhus,50.2,15.8,83.9,32.6,56,60.1,40.2
+157,Hanyang University,Asia,South Korea,Seoul,49.8,31.7,8.9,80.1,45.2,30.1,74.3
+158,Michigan State University,North America,United States,East Lansing,49.7,23.6,50.5,13.5,61,63.3,60.7
+159,"University of Maryland, College Park",North America,United States,College Park,49.5,21.9,13.2,43,51.9,73.1,35.9
+160,Technische Universität Berlin (TU Berlin),Europe,Germany,Berlin,49.3,80.3,23.6,43.3,55.7,30.7,68.6
+161,Emory University,North America,United States,Atlanta,48.6,38.1,30.5,99.4,25,66.7,17.3
+162,Case Western Reserve University,North America,United States,Cleveland,48.2,74.1,41.3,86.3,19,75.9,21.7
+163,Tecnológico de Monterrey,Latin America,Mexico,Monterrey,48.2,8.9,73.6,81.5,45,2.5,90.4
+164,King Fahd University of Petroleum & Minerals,Asia,Saudi Arabia,Dhahran,48.1,16.5,100,85.9,28.7,54.5,25.4
+165,University of Pittsburgh,North America,United States,Pittsburgh,48.1,14.6,2.6,97.5,42.3,43.9,18.8
+166,RWTH Aachen University,Europe,Germany,Aachen,48,75.6,21.9,6.5,50.2,60.8,93.3
+167,Alma Mater Studiorum - University of Bologna,Europe,Italy,Bologna,47.7,10.3,4.7,3.8,77.5,51.8,46.6
+168,University of Bath,Europe,United Kingdom,Bath,47.7,89.5,98.7,22.4,34.8,63.3,69.8
+169,Texas A&M University,North America,United States,College Station,47.6,15.6,11,6,61.5,68.6,65
+170,Universitat de Barcelona,Europe,Spain,Barcelona,47.6,32.2,3.9,16.1,71.3,51,36.5
+171,Western University,North America,Canada,London,47.5,60.4,99.4,5.5,30.8,97.4,63.9
+172,Sapienza University of Rome,Europe,Italy,Rome,47.2,10,1.4,4.2,76.5,55.9,38.4
+173,Albert-Ludwigs-Universitaet Freiburg,Europe,Germany,Freiburg im Breisgau,47,43.1,48.9,34.1,49.9,66.5,20.8
+174,University College Dublin,Europe,Ireland,Dublin,46.9,76,99.2,25.9,49.6,42.1,44.6
+175,University of Florida,North America,United States,Gainesville,46.9,12.5,6.2,76.4,49.7,28.9,47.9
+176,Al-Farabi Kazakh National University,Asia,Kazakhstan,Almaty,46.8,24.4,13.4,97.2,45.5,1.3,67.7
+177,University of Lausanne,Europe,Switzerland,Lausanne,46.6,61.7,99.8,52.4,32.8,63.9,19
+178,Eberhard Karls Universität Tübingen,Europe,Germany,Tübingen,46.4,24,43.8,94.6,46,16.3,22.1
+179,Indian Institute of Technology Bombay (IITB),Asia,India,Mumbai,46.4,1.6,1.5,32.5,51.3,55.5,79.6
+180,Erasmus University Rotterdam,Europe,Netherlands,Rotterdam,46.3,53.7,81.9,35,35.6,61.1,58.2
+181,National Tsing Hua University,Asia,Taiwan,Hsinchu City,46.1,20.4,7.2,37.8,51.2,53,59.3
+182,Technische Universität Wien,Europe,Austria,Vienna,46.1,82.8,70.5,11.5,32.6,90.4,48
+183,University of Gothenburg,Europe,Sweden,Gothenburg,46.1,63.1,73.5,71.7,37.9,37.2,21.6
+184,Khalifa University,Asia,United Arab Emirates,Abu Dhabi,46,59.7,100,91.3,13.7,65.1,10.5
+185,Universidad de Chile,Latin America,Chile,Santiago,46,4.9,2.8,12.2,76.7,15.3,92.3
+186,Indian Institute of Technology Delhi (IITD),Asia,India,New Delhi,45.9,1.7,1.2,30.9,45.8,70,70.8
+187,Indian Institute of Science,Asia,India,Bangalore,45.7,1.8,1.2,48.8,34.2,100,19.2
+188,University of Minnesota Twin Cities,North America,United States,Minneapolis,45.7,14.8,2.3,30.6,61.8,54.1,30.1
+189,Université catholique de Louvain (UCLouvain),Europe,Belgium,Louvain-la-Neuve,45.6,42,89.8,6.7,50.8,66.8,38
+190,University of Liverpool,Europe,United Kingdom,Liverpool,45.5,94.9,86.8,44.8,42.7,32.2,37.3
+191,University of Twente,Europe,Netherlands,Enschede,45.5,89.1,98.8,37.1,21,79.3,42.3
+192,Dartmouth College,North America,United States,Hanover,45.1,32.5,1.7,71.8,19.5,90.1,30.1
+193,Universiti Teknologi Malaysia,Asia,Malaysia,Skudai,45.1,68.3,6.5,55.2,42.4,39.2,53.4
+194,University of Wollongong,Oceania,Australia,Wollongong,44.9,76.4,90.8,20.1,30.4,82.3,37.5
+195,Curtin University,Oceania,Australia,Perth,44.8,46,100,15.2,31.2,84.6,48.2
+196,Technische Universität Dresden,Europe,Germany,Dresden,44.8,37.1,25.2,86.6,38,19.5,51
+197,University of Otago,Oceania,New Zealand,Dunedin,44.8,47.4,100,16,50.6,49.5,39.2
+198,"The University of Newcastle, Australia (UON)",Oceania,Australia,Callaghan,44.6,30.5,100,32.9,30.8,80.6,28.6
+199,The Hebrew University of Jerusalem,Asia,Israel,Jerusalem,44.5,9.4,51.8,84.5,34.9,36.7,30.8
+200,University of Bergen,Europe,Norway,Bergen,44.2,8.5,85.5,78.1,34.2,45,10
